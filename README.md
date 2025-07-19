@@ -1,0 +1,2 @@
+# STW_GI_Contraction_Motion_Model
+Sinusoidal traveling wave model for spatiotemporal gastrointestinal contractile motion modeling
